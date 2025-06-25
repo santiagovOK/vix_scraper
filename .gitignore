@@ -1,0 +1,9 @@
+# Ignorar el entorno virtual
+venv/
+
+# Otros archivos y directorios que podrías querer ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
