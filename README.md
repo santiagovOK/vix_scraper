@@ -58,7 +58,7 @@ This project contains scripts to fetch the current value of the S&P 500 Volatili
    source venv/bin/activate
 
    # Run the Python script and capture the output
-   vix_value=$(python scripts/vix_scraper.py)
+   vix_value=$(python3 scripts/vix_scraper.py)
 
    # Deactivate the virtual environment
    deactivate
