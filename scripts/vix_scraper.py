@@ -21,4 +21,4 @@ if __name__ == "__main__":
     if vix_value:
         print(f"VIX: {vix_value}")
     else:
-        print("No se pudo obtener el valor del VIX")
+        print("Could not obtain the VIX value")
