@@ -12,7 +12,7 @@ This project contains scripts to fetch the current value of the S&P 500 Volatili
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/vix-scraper.git
+   git clone https://github.com/santiagovOK/vix_scraper.git
    cd vix-scraper
    ```
 
